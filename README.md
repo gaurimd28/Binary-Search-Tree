@@ -30,5 +30,4 @@ The implementation uses **Object-Oriented Programming (OOP)** in Python for modu
 
 ---
 
-## 🧩 Code Structure
 
